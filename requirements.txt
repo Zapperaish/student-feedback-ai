@@ -1,0 +1,6 @@
+openai>=1.25.0
+pandas
+matplotlib
+jinja2
+weasyprint           # HTML → PDF (uses Chromium-less rendering)
+python-dotenv
